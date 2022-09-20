@@ -1,5 +1,5 @@
 # Build odin-recipes
 
-This is an odin project in which I had to use Git and Github. Everything is quite simple.
+This is an odin project that uses Git and Github. I made an index file that links to other files. The HTML files are very simple, containing a few headings, paragraphs, and the links.
 
 
